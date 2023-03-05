@@ -11,5 +11,5 @@ A beginner-oriented learning guide repository.
 在社团中，你不仅可以学到关于人工智能的知识和技能，还可以结交志同道合的朋友，共同探讨和解决问题。如果你对人工智能有兴趣，欢迎加入我们的社团，一起探索人工智能的无限可能
 
 ### 社团联系方式
-![qrcode](./about/社团二维码.jpg)
+![qrcode](./about/社团二维码.jpg)  
 QQ群二维码
