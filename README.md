@@ -23,57 +23,57 @@ QQ群二维码
 ### 文件夹结构
 一个规划中的目录结构：
 ```
-AI俱乐部仓库/
-|-- 教程/
-|   |-- Python基础/
-|   |   |-- Python入门.ipynb
-|   |   |-- Python条件语句和循环.ipynb
-|   |   |-- Python函数.ipynb
-|   |-- 机器学习/
-|   |   |-- 线性回归.ipynb
-|   |   |-- 决策树和随机森林.ipynb
-|   |   |-- 聚类算法.ipynb
-|   |-- 计算机视觉/
-|   |   |-- 计算机视觉简介.ipynb
-|   |   |-- 图像处理技术.ipynb
-|   |   |-- 目标检测.ipynb
-|-- 项目/
-|   |-- 图像分类/
+AI-Club-Repository/
+|-- Tutorials/
+|   |-- Python-Basics/
+|   |   |-- Introduction-to-Python.ipynb
+|   |   |-- Control-Structures-in-Python.ipynb
+|   |   |-- Functions-in-Python.ipynb
+|   |-- Machine-Learning/
+|   |   |-- Linear-Regression.ipynb
+|   |   |-- Decision-Trees-and-Random-Forests.ipynb
+|   |   |-- Clustering-Algorithms.ipynb
+|   |-- Computer-Vision/
+|   |   |-- Introduction-to-Computer-Vision.ipynb
+|   |   |-- Image-Processing-Techniques.ipynb
+|   |   |-- Object-Detection.ipynb
+|-- Projects/
+|   |-- Image-Classification/
 |   |   |-- image_classification.py
 |   |   |-- README.md
-|   |-- 情感分析/
+|   |-- Sentiment-Analysis/
 |   |   |-- sentiment_analysis.py
 |   |   |-- README.md
-|-- 论文/
-|   |-- 经典论文/
-|   |   |-- 注意力机制全你要的.pdf
-|   |   |-- 深度学习自然语言处理综述.pdf
-|   |   |-- 对抗生成网络.pdf
-|-- 资源/
-|   |-- 书籍/
-|   |   |-- Python数据科学手册.pdf
-|   |   |-- TensorFlow深度学习框架.pdf
-|   |-- 在线课程/
-|   |   |-- Coursera - 机器学习/
-|   |   |-- edX - 人工智能/
-|-- 活动/
-|   |-- 工作坊/
-|   |   |-- TensorFlow工作坊2023/
-|   |   |-- 计算机视觉工作坊2023/
-|   |-- 嘉宾演讲系列/
-|   |   |-- AI创新者演讲系列/
+|-- Papers/
+|   |-- Recent-Papers/
+|   |   |-- Attention-is-All-You-Need.pdf
+|   |   |-- A-Survey-on-Deep-Learning-for-Language-Processing.pdf
+|   |   |-- Generative-Adversarial-Networks.pdf
+|-- Resources/
+|   |-- Books/
+|   |   |-- Deep-Learning-with-Python.pdf
+|   |   |-- Hands-On-Machine-Learning-with-Scikit-Learn-and-TensorFlow.pdf
+|   |-- Online-Courses/
+|   |   |-- Coursera - Machine Learning/
+|   |   |-- edX - Artificial Intelligence/
+|-- Events/
+|   |-- Workshops/
+|   |   |-- TensorFlow-Workshop-2023/
+|   |   |-- Computer-Vision-Workshop-2023/
+|   |-- Guest-Speaker-Series/
+|   |   |-- AI-Innovators-Speaker-Series/
 |   |   |-- README.md
-|-- 贡献/
-    |-- 代码/
-    |   |-- 机器学习/
+|-- Contributions/
+    |-- Code/
+    |   |-- machine_learning/
     |   |   |-- linear_regression.py
     |   |   |-- README.md
-    |-- 笔记/
-    |   |-- 机器学习/
-    |   |   |-- 线性回归笔记.md
+    |-- Notes/
+    |   |-- Machine-Learning/
+    |   |   |-- Linear-Regression-Notes.md
     |   |   |-- README.md
-    |-- 教程/
-        |-- 贡献教程/
+    |-- Tutorials/
+        |-- Contributions-Tutorial/
         |-- README.md
 ```
 （chatgpt给的参考）
